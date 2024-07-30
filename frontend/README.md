@@ -1,1 +1,2 @@
-TODO
+## Introduction
+Branch for frontend training (FF).
